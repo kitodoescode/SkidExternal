@@ -1,11 +1,21 @@
 # SkidExternal
 
-## Info
+## About
 
 [![Discord](https://img.shields.io/badge/Discord-Invite-gray?logo=discord&labelColor=%235865F2&logoColor=white)](https://discord.gg/skidding)  
 This is an external made by **@kitodoescode**.  
 This external is completely undetected from what I have tested.  
 It's my first external — thanks to all those who helped.
+
+---
+
+## Info
+
+- Completely Undetected
+- Kernel-Level
+- Walkspeed, JumpPower & Health Changer.
+- External ImGui Overlay
+- Updated for ``version-78712d8739f34cb9``
 
 ---
 
