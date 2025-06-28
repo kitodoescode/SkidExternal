@@ -1,13 +1,23 @@
 # SkidExternal
+
 ## Info
-<p>
-  <a href="https://discord.gg/skidding"><img alt="Discord Invite" src="https://img.shields.io/badge/Discord-Join?color2=%235865F2&label=Discord&logo=discord"></a>
-</p>  
-This is a external made by @kitodoescode, this is my first external, thx to all those who helped.
+
+[![Discord](https://img.shields.io/badge/Discord-Join-gray?logo=discord&labelColor=%235865F2)](https://discord.gg/skidding)
+
+This is an external made by **@kitodoescode**.  
+This is my first external — thanks to all those who helped.
+
+---
+
 ## Driver Used
-- Credits to [paysonism](https://github.com/paysonism/)  
+
+Credits to [paysonism](https://github.com/paysonism/)  
 [![Driver](https://img.shields.io/badge/Driver-Source-gray?logo=github&labelColor=%232f2f2f)](https://github.com/paysonism/payson-ioctl-cheat-driver/)
+
+---
+
 ## Credits
-``Discord Users``
-- @kitodoescode -> External
-- @c4rguy. & @oi2qq -> Helping
+
+**Discord Users**
+- `@kitodoescode` → External
+- `@c4rguy.` & `@oi2qq` → Helping
