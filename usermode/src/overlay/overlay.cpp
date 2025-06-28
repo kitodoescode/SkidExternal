@@ -258,7 +258,7 @@ void COverlay::DrawESP() {
 			continue;
 
 		Vector3 headPos = Utils->GetHeadPos(player);
-		std::cout << "[+] DrawESP::headPos -> " << headPos.x << headPos.y << headPos.z << "\n";
+		//std::cout << "[+] DrawESP::headPos -> " << headPos.x << headPos.y << headPos.z << "\n";
 		DrawBoxESP(headPos, 5.0f, IM_COL32(0, 255, 0, 255));
 	}
 }
