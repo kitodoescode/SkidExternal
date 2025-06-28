@@ -40,3 +40,5 @@ It's my first external — thanks to all those who helped.
 [![Mapper](https://img.shields.io/badge/Github-kdmapper-gray?logo=github&labelColor=%232f2f2f)](https://github.com/TheCruZ/kdmapper)
 
 ---
+
+``Educational Purposes Only``
