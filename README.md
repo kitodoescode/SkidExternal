@@ -23,3 +23,10 @@ It's my first external — thanks to all those who helped.
 [![Driver](https://img.shields.io/badge/Driver-Source-gray?logo=github&labelColor=%232f2f2f)](https://github.com/paysonism/payson-ioctl-cheat-driver/)
 
 ---
+
+## Mapper
+
+**kdmapper - Credits to [TheCruZ](https://github.com/TheCruZ/)**  
+[![Mapper](https://img.shields.io/badge/kdmapper-Source-gray?logo=github&labelColor=%232f2f2f)](https://github.com/TheCruZ/kdmapper)
+
+---
